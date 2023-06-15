@@ -1,0 +1,123 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 3,
+      "firstName": "MAHESH",
+      "lastName": "",
+      "email": "KKLL",
+      "mobile": "LLLL",
+      "salary": "LLLL"
+    },
+    {
+      "id": 4,
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 5,
+      "firstName": "NM",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 6,
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 7,
+      "firstName": "mahendra",
+      "lastName": "",
+      "email": "radhamahndra@gmail.com",
+      "mobile": "96789000-000",
+      "salary": "688"
+    },
+    {
+      "id": 8,
+      "firstName": "mah",
+      "lastName": "",
+      "email": "ram@",
+      "mobile": "9490",
+      "salary": "50"
+    },
+    {
+      "id": 9,
+      "firstName": "mahesh",
+      "lastName": "",
+      "email": "mahesh@gmail.com",
+      "mobile": "900000067",
+      "salary": "690000"
+    },
+    {
+      "id": 10,
+      "firstName": "oooooooooooo",
+      "lastName": "",
+      "email": "ooooooooooo",
+      "mobile": "oooooooooooo",
+      "salary": "ooooooooooooooo"
+    },
+    {
+      "id": 11,
+      "firstName": "oooooooooo",
+      "lastName": "",
+      "email": "ooooooooooooo",
+      "mobile": "oooooooooooooooo",
+      "salary": "oooooooooo"
+    },
+    {
+      "id": 12,
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 13,
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 14,
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
